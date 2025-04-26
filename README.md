@@ -47,6 +47,6 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielmoneta&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
