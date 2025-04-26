@@ -44,12 +44,9 @@
     src="https://github-readme-stats.vercel.app/api?username=bielmoneta&show_icons=true&theme=tokyonight"
 />
 
-<br/>
-<br/>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="130" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielmoneta&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
